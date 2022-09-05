@@ -5,6 +5,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with CitiBank software solutions.
 - 🌱 I’ve hands on experiance in AWS and completed AWS associate developer certification
 
+Some of my links:
+1. AWS Certification Link : https://www.credly.com/badges/401178c6-994d-447f-8666-296442de8bdd/public_url
+2. Docker Hub URL : https://hub.docker.com/u/murugesh1996
+
 Here are some of my sample projects I have worked on to show my skillset
 
 1. Dockerized Spring Boot Ecommerce application with Mysql and Angular containers : https://github.com/murugeshp/DevOpsFiles/tree/main/SpringBootEcommerceMonolithicApp
