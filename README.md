@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with CitiBank software solutions.
+- 🔭 I’m currently working with Deutshe Bank, London.
 - 🌱 I’ve hands on experiance in AWS and completed AWS associate developer certification
 
 Some of my links:
